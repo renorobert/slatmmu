@@ -1,0 +1,3 @@
+[submodule "revanc"]
+	path = revanc
+	url = https://github.com/renorobert/revanc.git
